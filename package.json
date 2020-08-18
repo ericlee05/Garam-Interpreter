@@ -1,5 +1,5 @@
 {
-  "name": "garam",
+  "name": "garam-interpreter",
   "version": "1.0.0",
   "description": "Garam is Hangul based turing-completeness programming language.",
   "main": "./dist/garam.js",
