@@ -1,5 +1,8 @@
 ﻿가람 - "훈민정음은 디자인이다"
 =============
+[![NPM Version][npm-image]][npm-url]
+[![Downloads Stats][npm-downloads]][npm-url]
+
 <img src="https://github.com/Oasis1819/Garam/blob/master/snapshot/GaramLogo.png?raw=true" width="300">
    
 가람(Garam)은 Typescript로 만들어진 신토불이 인터프리터 언어입니다.   
