@@ -58,7 +58,7 @@
 Node.JS에서 "반갑소 세상아!" 출력하기   
 ```typescript
 // Written with Typescript
-import Garam from "Garam-Interpreter"
+import Garam from "garam-interpreter"
 
 var Interpreter = new Garam()
 Interpreter.Interpret(
