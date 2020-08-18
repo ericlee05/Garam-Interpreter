@@ -1,0 +1,26 @@
+{
+  "name": "garam",
+  "version": "1.0.0",
+  "description": "Garam is Hangul based turing-completeness programming language.",
+  "main": "./dist/garam.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VINTO1819/Garam.git"
+  },
+  "keywords": [
+    "turing",
+    "interpreter",
+    "hangul",
+    "fun"
+  ],
+  "author": "VINTO",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VINTO1819/Garam/issues"
+  },
+  "homepage": "https://github.com/VINTO1819/Garam#readme",
+  "dependencies": {}
+}
