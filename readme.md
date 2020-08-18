@@ -1,7 +1,6 @@
 ﻿가람 - "훈민정음은 디자인이다"
 =============
-[![NPM Version][npm-image]][npm-url]
-[![Downloads Stats][npm-downloads]][npm-url]
+[![NPM](https://nodei.co/npm/garam-interpreter.png?compact=true)](https://nodei.co/npm/garam-interpreter/)
 
 <img src="https://github.com/Oasis1819/Garam/blob/master/snapshot/GaramLogo.png?raw=true" width="300">
    
