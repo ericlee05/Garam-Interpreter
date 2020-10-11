@@ -1,11 +1,9 @@
 ﻿가람 - "훈민정음은 디자인이다"
 =============
 [![NPM](https://nodei.co/npm/garam-interpreter.png?compact=true)](https://nodei.co/npm/garam-interpreter/)
-
-<img src="https://github.com/Oasis1819/Garam/blob/master/snapshot/GaramLogo.png?raw=true" width="300">
    
 가람(Garam)은 Typescript로 만들어진 신토불이 인터프리터 언어입니다.   
-조선 4대 군주이신 세종대왕께서 한글을 반포하신 날을 기념으로 개발되었으며, 튜링 완전한 언어입니다.   
+조선 4대 군주이신 성군 세종대왕을 기리기 위해 개발되었으며, 튜링 완전한 언어입니다.   
 
 탄생 비화
 -------------
